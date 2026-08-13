@@ -6,15 +6,15 @@
   <!-- Optional icon -->
   <Icon>https://github.com/bluepantsdev/unraid_templates/blob/daa39b27e2fcf917cc721409a92ed1f6416842b7/logo.png</Icon>
   <!-- Optional web page -->
-  <WebPage>https://github.com/bluepantsdev/YOUR_REPO_NAME</WebPage>
+  <WebPage>https://bluepants.dev/</WebPage>
   <!-- Optional support and donation links -->
-  <Forum>https://forums.unraid.net/topic/YOUR_SUPPORT_TOPIC</Forum>
+  <!-- <Forum>https://forums.unraid.net/topic/YOUR_SUPPORT_TOPIC</Forum> -->
   <!-- Optional Discord link -->
-  <Discord>https://discord.gg/YOUR_INVITE_CODE</Discord>
+  <!-- <Discord>https://discord.gg/YOUR_INVITE_CODE</Discord> -->
   <!-- Optional donation link -->
-  <DonateLink>https://github.com/sponsors/bluepantsdev</DonateLink>
+  <!-- <DonateLink>https://github.com/sponsors/bluepantsdev</DonateLink> -->
   <!-- Optional donation text -->
-  <DonateText>Support this project</DonateText>
+  <!-- <DonateText>Support this project</DonateText> -->
   <!-- Optional photos -->
   <Photo>URL to any photos</Photo>
   <!-- You can add multiple photos by adding multiple <Photo> tags -->
