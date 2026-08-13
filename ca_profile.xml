@@ -4,7 +4,7 @@
     Describe what users will find in this repository, which apps or plugins you maintain, and where they should go for support.  Markdown supported
   </Profile>
   <!-- Optional icon -->
-  <Icon>https://raw.githubusercontent.com/bluepantsdev/YOUR_REPO_NAME/main/icon.svg</Icon>
+  <Icon>https://github.com/bluepantsdev/unraid_templates/blob/daa39b27e2fcf917cc721409a92ed1f6416842b7/logo.png</Icon>
   <!-- Optional web page -->
   <WebPage>https://github.com/bluepantsdev/YOUR_REPO_NAME</WebPage>
   <!-- Optional support and donation links -->
